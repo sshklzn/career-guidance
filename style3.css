@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    background: #ffffff;
+}
+
+li.li {
+    float: left;
+}
+
+li>ul {
+    top: 25px;
+    display: none;
+    background-color: #ffffff;
+}
+
+li:hover>ul {
+    display: block;
+    background-color: white;
+    width: 250px;
+}
+
+li:hover>ul>li {
+    float: none;
+}

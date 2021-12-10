@@ -1,0 +1,26 @@
+body {
+    background: #4d4d4b;
+    font-size:17px;
+    serif: Times New Roman;
+}
+
+li {
+    margin-top: 1em;
+}
+
+p {
+    background: #DAD7C5;
+    color: rgba(75, 74, 69, 0.8);
+    text-shadow: 1px 2px 3px #dad7c5, 0 0 0 #000, 1px 2px 3px #dad7c5;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 -6px 10px 0;
+    padding: 5px 6px 4px 5px;
+    position: relative;
+}
+
+a {
+    color: #EEDFAC;
+    line-height: 1.2;
+    margin: 3px 0;
+}
