@@ -10,14 +10,14 @@ body {
 }
 
 .lefimg {
-    width: 28rem;
+    width: 27rem;
     height: 21rem;
     float: left;
     margin: 7px 10px 0 0;
 }
 
 .rightimg {
-    width: 28em;
+    width: 27em;
     height: 21em;
     float: right;
     margin: 7px 0 0 10px;
